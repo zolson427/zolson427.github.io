@@ -5,7 +5,7 @@ if (btn) {
     // The JS works in conjunction with the 'dipped' code in style.css
     btn.classList.toggle("dipped");
     setTimeout(function() {
-      location.href = "https://google.com";
+      location.href = "https://github.com/zolson427";
     }, 500);
   };
 }
