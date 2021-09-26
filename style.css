@@ -39,7 +39,9 @@
 body {
   font-family: HK Grotesk;
   background: url("/assets/background.JPG");
-  /* background-color: var(--color-bg);*/
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
 
 /* Page structure */
