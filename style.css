@@ -38,10 +38,7 @@
 
 body {
   font-family: HK Grotesk;
-  background: url("/assets/background.JPG");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
+  background: url("/assets/background.JPG") no-repeat fixed center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
